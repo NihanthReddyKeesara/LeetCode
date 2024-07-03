@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Binary Search
@@ -13,9 +14,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
