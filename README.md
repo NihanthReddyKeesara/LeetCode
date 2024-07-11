@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0072-edit-distance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0072-edit-distance) |
 ## Math
 |  |
 | ------- |
