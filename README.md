@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0018-4sum) |
+| [0151-reverse-words-in-a-string](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0151-reverse-words-in-a-string](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
