@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0049-group-anagrams) |
 | [0303-range-sum-query-immutable](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0093-restore-ip-addresses) |
 ## Hash Table
 |  |
