@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0049-group-anagrams) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0043-multiply-strings) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
