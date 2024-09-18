@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0179-largest-number) |
 | [0303-range-sum-query-immutable](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0179-largest-number) |
 ## Design
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Sliding Window
 |  |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
