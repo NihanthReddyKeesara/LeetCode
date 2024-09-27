@@ -9,25 +9,52 @@
  * }
  */
 class Solution {
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode dummy=new ListNode(-1);
-        ListNode current=dummy;
 
-        while(list1!=null && list2!=null){
-            if(list1.val<=list2.val){
-                current.next=list1;
-                list1=list1.next;
+    public ListNode appendNode(ListNode head,int data){
+        ListNode newNode=new ListNode(data);
+        if(head==null){
+            head=newNode;
+            return head;
+        }
+
+        ListNode curr=head;
+        while(curr.next!=null){
+            curr=curr.next;
+        }
+        curr.next=newNode;
+        return head;
+    }
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        ListNode curr1=list1;
+        ListNode curr2=list2;
+        int data;
+        ListNode mergedList=null;
+
+        while(curr1!=null && curr2!=null){
+            if(curr1.val<=curr2.val){
+                data=curr1.val;
+                curr1=curr1.next;
+                mergedList=appendNode(mergedList,data);
             }else{
-                current.next=list2;
-                list2=list2.next;
+                data=curr2.val;
+                curr2=curr2.next;
+                mergedList=appendNode(mergedList,data);
             }
-            current=current.next;
         }
-        if(list1!=null){
-            current.next=list1;
-        }else{
-            current.next=list2;
+    
+        while(curr1!=null){
+            data=curr1.val;
+            curr1=curr1.next;
+            mergedList=appendNode(mergedList,data);
         }
-        return dummy.next;
+
+        while(curr2!=null){
+            data=curr2.val;
+            curr2=curr2.next;
+            mergedList=appendNode(mergedList,data);
+        }
+
+    return mergedList;
+
     }
 }
