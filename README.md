@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0043-multiply-strings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
