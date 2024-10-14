@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0049-group-anagrams) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0091-decode-ways) |
 ## Math
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
