@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0179-largest-number) |
 | [0303-range-sum-query-immutable](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1293-three-consecutive-odds](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## Binary Search
 |  |
 | ------- |
