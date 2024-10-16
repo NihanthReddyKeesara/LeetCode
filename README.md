@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0091-decode-ways) |
 ## Math
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
