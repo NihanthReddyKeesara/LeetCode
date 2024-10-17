@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0179-largest-number) |
 | [0303-range-sum-query-immutable](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1293-three-consecutive-odds](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NihanthReddyKeesara/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
